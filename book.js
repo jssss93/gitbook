@@ -17,7 +17,7 @@ module.exports = {
 
     pluginsConfig: {
         sitemap: {
-            hostname: 'https://toolchain.gitbook.com'
+            hostname: 'https://jssss93.gitbook.com'
         }
     }
 };
